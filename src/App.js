@@ -2,7 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import logo from './logo.png'; 
-import headerImage from './header.png'; 
+// import headerImage from './header.png'; 
 
 function App() {
   const [images, setImages] = useState([]);
